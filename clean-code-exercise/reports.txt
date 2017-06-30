@@ -1,0 +1,6 @@
+/Users/Dream/Downloads/clean-code-exercise/src/Scuti/CleanCodeExercise/FruitBasket.php:3	The class fruit_Basket is not named in CamelCase.
+/Users/Dream/Downloads/clean-code-exercise/src/Scuti/CleanCodeExercise/FruitBasket.php:6	The class FruitBasket has 11 public methods. Consider refactoring FruitBasket to keep number of public methods under 10.
+/Users/Dream/Downloads/clean-code-exercise/src/Scuti/CleanCodeExercise/FruitBasket.php:10	The method fruit_Basket is not named in camelCase.
+/Users/Dream/Downloads/clean-code-exercise/src/Scuti/CleanCodeExercise/FruitBasket.php:12	Avoid variables with short names like $a. Configured minimum length is 3.
+/Users/Dream/Downloads/clean-code-exercise/src/Scuti/CleanCodeExercise/FruitBasket.php:15	Avoid variables with short names like $i. Configured minimum length is 3.
+/Users/Dream/Downloads/clean-code-exercise/src/Scuti/CleanCodeExercise/FruitBasket.php:20	Avoid variables with short names like $i. Configured minimum length is 3.
